@@ -1,0 +1,23 @@
+{
+    "now": "2025-07-26T06:57:01.565Z",
+    "perfNow": 27861,
+    "diagnosticCorrelation": "822310e4-2d7a-4f29-bf98-863b43fdb550",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.071425.1",
+        "environmentType": 3,
+        "resourceName": "DataFactory-Thrinesh",
+        "resourceRegion": "uksouth",
+        "resourceGroup": "RG-Project-1",
+        "subscriptionId": "820dbd12-127b-45c3-a574-75d13f168412",
+        "sessionId": "6Q29pEElowJV7kspg7nT/r",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "8e976244-0cd8-462a-b460-07f088fbd45b"
+    },
+    "additionalInfo": {
+        "selectedResource": "copy_git_pipeline",
+        "selectedResourceType": "pipeline"
+    }
+}
