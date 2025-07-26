@@ -1,0 +1,6 @@
+selected resource name:		copy_git_pipeline
+selected resource type:		pipeline
+factory name:			DataFactory-Thrinesh
+factory location:		uksouth
+subscription id:		820dbd12-127b-45c3-a574-75d13f168412
+time of download (UTC):		Sat, 26 Jul 2025 06:57:01 GMT

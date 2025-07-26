@@ -1,0 +1,31 @@
+{
+    "name": "DS_Git",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "LS_Git",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "file_load": {
+                "type": "string"
+            }
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation",
+                "relativeUrl": {
+                    "value": "thrinesh-cloud/Azure-Project-1/refs/heads/main/@{dataset().file_load}",
+                    "type": "Expression"
+                }
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}
