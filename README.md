@@ -1,7 +1,7 @@
 
 # 🚗 Car Sales Data Engineering Project using Azure Data Factory & Delta Lake
 
-This project demonstrates the implementation of a modern data pipeline to ingest, transform, and manage car sales data using **Azure Data Factory (ADF)** and **Azure Data Lake Storage Gen2**. It includes both initial and incremental data loading strategies and follows the **Bronze → Silver → Gold** architecture model using **Parquet** format.
+This project demonstrates the implementation of a modern data pipeline to ingest, transform, and manage car sales data using **Azure Data Factory (ADF)** and **Azure Data Lake Storage Gen2**. It includes both initial and incremental data loading strategies and follows the **Bronze → Silver → Gold** architecture model using **Delta** format.
 
 ---
 
